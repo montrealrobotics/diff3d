@@ -22,10 +22,10 @@ title: Differentiable 3D Vision and Graphics
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   ICCV 2021 Workshop on Differentiable 3D Vision and Graphics
-baseurl: "diff3d" # the subpath of your site, e.g. /blog
+baseurl: "/diff3d" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: rethinkmlpapers
-github_username:  rethinkmlpapers
+twitter_username: montrealrobots
+github_username:  montrealrobotics
 
 # Build settings
 plugins:
