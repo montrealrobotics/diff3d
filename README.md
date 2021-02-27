@@ -1,3 +1,7 @@
+# Diff3D
+
+Webpage for the Diff3D workshop at ICCV (forked from the `sniffle-workshop` theme)
+
 # sniffle-workshop
 
 `sniffle` is an easy-to-use [Jekyll](https://jekyllrb.com/) theme, developed primarily for hosting workshop webpages in the AI / ML communities. `sniffle` automates many of the mundane tasks needed for workshop webpages, including:
