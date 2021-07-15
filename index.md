@@ -25,6 +25,15 @@ The primary focus areas of this workshop are:
 
 Notably, most of the advances in our focus areas have occurred in the last 3-4 years, and the interest in this nascent field is fast growing (evident from the push towards the release of open-source tools such as Kaolin [18], PyTorch3D [19], Kornia [20] and more).
 
+
+## News
+
+* **July 11 2021**: Interested in reviewing? Sign up [here](https://forms.gle/JnNJfCatfrrSxo866).
+* **July 11 2021**: Interested in mentoring for our mentorship track? Sign up [here](https://forms.gle/PqHj7mDfsETPfZrJ8).
+* **July 11 2021**: Workshop [submission portal](https://cmt3.research.microsoft.com/DIFF3D2021/) open!
+* **June 14 2021**: Workshop announced! Will be held at ICCV 2021, on **October 11, 2021**.
+
+
 ## Timeline
 
 Please see our [call for papers](callforpapers) for more details. All deadlines below are 11.59 pm on the specified day, [anywhere-on-Earth time](https://www.timeanddate.com/time/zones/aoe).
