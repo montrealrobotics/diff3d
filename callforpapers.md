@@ -19,7 +19,7 @@ We solicit submissions of varying lengths and scope, as prescribed below. Each p
 
 ## Submission portal
 
-Our CMT submission portal can be accessed at the following URL: https://cmt3.research.microsoft.com/DIFF3D2021/
+Our CMT submission portal can be accessed at the following URL: [https://cmt3.research.microsoft.com/DIFF3D2021/](https://cmt3.research.microsoft.com/DIFF3D2021/)
 
 **NOTE:** Please pay extra care when selecting a track; our workshop has 3 tracks, each with a very different review / submission expectations.
 
