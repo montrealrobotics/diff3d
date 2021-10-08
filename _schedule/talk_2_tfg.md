@@ -8,5 +8,5 @@ img: avatar.jpg
 # affil2: BuzzFizz Corp
 # affil2_link: https://buzzfizz.corp
 title: Invited talk - TensorFlow Graphics Ecosystem
-time: 1335 - 1350
+time: 1335
 ---

@@ -1,5 +1,5 @@
 ---
-sequence_id: 1
+sequence_id: 9
 speaker: Yaron Lipman
 # webpage: https://jane.doe
 # affil: Buzz University
@@ -8,5 +8,5 @@ img: yaron.jpg
 # affil2: BuzzFizz Corp
 # affil2_link: https://buzzfizz.corp
 title: Invited talk - Yaron Lipman
-time: 1600 - 1630
+time: 1600
 ---
