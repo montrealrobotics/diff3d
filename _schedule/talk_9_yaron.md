@@ -1,12 +1,12 @@
 ---
-sequence_id: 2
-speaker: Angjoo Kanazawa
+sequence_id: 1
+speaker: Yaron Lipman
 # webpage: https://jane.doe
 # affil: Buzz University
 # affil_link: https://buzz.edu
-img: angjoo.jpg
+img: yaron.jpg
 # affil2: BuzzFizz Corp
 # affil2_link: https://buzzfizz.corp
-title: Invited talk - Angjoo Kanazawa
-time: 0835 - 0855
+title: Invited talk - Yaron Lipman
+time: 1600 - 1630
 ---

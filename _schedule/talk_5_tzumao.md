@@ -1,12 +1,12 @@
 ---
-sequence_id: 9
-speaker: Nikhila Ravi
+sequence_id: 5
+speaker: Tzu-Mao Li
 # webpage: https://jane.doe
 # affil: Buzz University
 # affil_link: https://buzz.edu
-img: nikhila.jpg
+img: tzumao.png
 # affil2: BuzzFizz Corp
 # affil2_link: https://buzzfizz.corp
-title: Invited talk - Nikhila Ravi
-time: 1035 - 1040
+title: Invited talk - Tzu-Mao Li
+time: 1430 - 1500
 ---

@@ -1,12 +1,12 @@
 ---
-sequence_id: 3
-speaker: Wenzel Jakob
+sequence_id: 6
+speaker: Matt Tannick
 # webpage: https://jane.doe
 # affil: Buzz University
 # affil_link: https://buzz.edu
-img: wenzel.jpg
+img: avatar.jpg
 # affil2: BuzzFizz Corp
 # affil2_link: https://buzzfizz.corp
-title: Invited talk - Wenzel Jakob
-time: 0855 - 0915
+title: Invited talk - Matt Tannick
+time: 1500 - 1530
 ---

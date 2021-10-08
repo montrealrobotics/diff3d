@@ -1,12 +1,12 @@
 ---
-sequence_id: 4
-speaker: TBD
+sequence_id: 9
+speaker: Nikhila Ravi
 # webpage: https://jane.doe
 # affil: Buzz University
 # affil_link: https://buzz.edu
-img: avatar.jpg
+img: nikhila.jpg
 # affil2: BuzzFizz Corp
 # affil2_link: https://buzzfizz.corp
-title: Invited talk - TBD
-time: 0915 - 0935
+title: Invited talk - Nikhila Ravi
+time: 1530 - 1545
 ---

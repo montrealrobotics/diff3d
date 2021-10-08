@@ -1,6 +1,6 @@
 ---
-sequence_id: 6
+sequence_id: 11
 speaker: Panelists
 title: Panel Discussion
-time: 0955 - 1025
+time: 1645-1715
 ---

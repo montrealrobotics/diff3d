@@ -1,12 +1,12 @@
 ---
-sequence_id: 1
-speaker: Yaron Lipman
+sequence_id: 10
+speaker: Vincent Sitzmann
 # webpage: https://jane.doe
 # affil: Buzz University
 # affil_link: https://buzz.edu
-img: yaron.jpg
+img: vincent.jpg
 # affil2: BuzzFizz Corp
 # affil2_link: https://buzzfizz.corp
-title: Invited talk - Yaron Lipman
-time: 0815 - 0835
+title: Invited talk - Vincent Sitzmann
+time: 1545 - 1600
 ---
