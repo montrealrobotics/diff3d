@@ -4,5 +4,5 @@ title: A-SDF - Learning Disentangled Signed Distance Functions for Articulated S
 authors: Jiteng Mu, Weichao Qiu, Adam Kortylewski, Alan Yuille, Nuno Vasconcelos, Xiaolong Wang
 affil: UCSD, Johns Hopkins University
 pdf: 03.pdf
-# img: 01.png
+img: 03.png
 ---
