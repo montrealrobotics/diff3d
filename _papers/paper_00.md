@@ -3,17 +3,17 @@
 sequence_id: 0
 
 # Paper title
-title: gradSLAM - Automagically differentiable SLAM
+title: DeepDraper - Fast and Accurate 3D Garment Draping over a 3D Human Body
 
 # Paper authors
-authors: Krishna Murthy Jatavallabhula, Soroush Saryazdi, Ganesh Iyer, and Liam Paull
+authors: Lokendar Tiwari, Brojeshwar Bhowmick
 
 # Author affiliations
-affil: Mila, Universite de Montreal, Concordia University, and Carnegie Mellon University
+affil: TCS Research (Tata Consultancy Services)
 
 # Link to the paper's pdf (place in the `assets/pdf/papers` directory)
 pdf: 00.pdf
 
 # Link to a representative image for the paper (place in the `assets/img/papers` directory)
-img: 00.png
+# img: 00.png
 ---
