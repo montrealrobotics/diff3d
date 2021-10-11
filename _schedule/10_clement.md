@@ -7,6 +7,6 @@ speaker: Clement Fuji-Tsang
 img: clement.jpg
 # affil2: BuzzFizz Corp
 # affil2_link: https://buzzfizz.corp
-title: Invited talk - Clement Fuji-Tsang
+title: Kaolin - A suite of tools for 3D deep learning research
 time: 1630
 ---
