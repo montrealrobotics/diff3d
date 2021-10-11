@@ -1,6 +1,6 @@
 ---
 sequence_id: 6
-speaker: Matt Tannick
+speaker: Matthew Tancik
 webpage: https://www.matthewtancik.com/
 affil: UC Berkeley
 affil_link: https://berkeley.edu
