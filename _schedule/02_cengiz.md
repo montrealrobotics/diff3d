@@ -6,7 +6,7 @@ affil: University of Cambridge
 affil_link: https://www.cl.cam.ac.uk/
 img: avatar.jpg
 affil2: Google
-affil2_link: https://arvr.google.com/daydream/
+# affil2_link: https://arvr.google.com/daydream/
 title: The TensorFlow Graphics Ecosystem
 time: 1335
 ---
